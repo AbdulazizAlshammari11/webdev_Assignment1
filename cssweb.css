@@ -1,0 +1,151 @@
+/* abdulaziz Alshammari 1940576*/
+*
+{
+    font-family: helvetica;
+    color: #051838;
+    
+}
+
+body
+{
+    background-color:white;
+    
+}
+
+section
+{
+   background-color: white; 
+   
+}
+
+table {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+button
+{
+    
+    margin-left: 150px;
+}
+p
+{
+   font-size: small; 
+}
+h1
+{
+    font-size:xx-large;
+}
+h2
+{
+    font-size: large;
+}
+
+li
+{
+    font-size: small;
+}
+h3
+{
+    font-size: small;
+}
+
+ol
+{
+    font-size: small;
+}
+.navA
+{
+margin-left: 50px;
+}
+
+#fw1 {
+    background: white;
+    background: linear-gradient(29deg, white 0%, rgb(2, 171, 216) 100%);
+    transition: all 0.2s ease;
+    border-radius: 30px;
+    width: 50rem;
+
+}
+#fw2
+{
+    background: white;
+    background: linear-gradient(29deg, white 0%, rgb(2, 171, 216) 100%);
+    transition: all 0.2s ease;
+    border-radius: 30px;
+    width: 50rem;
+  
+}
+
+#fw3
+{
+    background: white;
+    background: linear-gradient(29deg, white 0%, rgb(2, 171, 216) 100%);
+    transition: all 0.2s ease;
+    border-radius: 30px;
+    width: 50rem;
+
+}
+
+#fw4
+{
+    background: white;
+    background: linear-gradient(29deg, white 0%, rgb(2, 171, 216) 100%);
+    transition: all 0.2s ease;
+    border-radius: 30px;
+    width: 50rem;
+
+}
+#fw1:hover {
+
+    background: rgb(2, 171, 216);
+}
+#fw2:hover {
+
+    background: rgb(2, 171, 216);
+}
+#fw3:hover {
+
+    background: rgb(2, 171, 216);
+}
+#fw4:hover {
+
+    background: rgb(2, 171, 216);
+}
+
+
+
+#cards1
+{
+   
+   width: 160px;
+   margin: 10px;
+}
+#cards2
+{
+   
+   width: 160px;
+   margin: 10px;
+}
+
+#img2
+{
+    width: 150px;
+    height: 200px;
+}
+#img1
+{
+    width: 150px;
+    height: 200px;
+}
+
